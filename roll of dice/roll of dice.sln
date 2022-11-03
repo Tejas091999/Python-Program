@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "roll of dice", "roll of dice\roll of dice.pyproj", "{77ED6DA3-50C3-43B9-9443-8E600B9B5D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ED6DA3-50C3-43B9-9443-8E600B9B5D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ED6DA3-50C3-43B9-9443-8E600B9B5D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FC98B7-217F-4B06-B483-D5603D387A89}
+	EndGlobalSection
+EndGlobal
