@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "guessing number", "guessing number\guessing number.pyproj", "{95968070-2972-44D0-8D0E-BE39E5B6A632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95968070-2972-44D0-8D0E-BE39E5B6A632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95968070-2972-44D0-8D0E-BE39E5B6A632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F25598-DCF6-4910-AC91-DE3AD81AA307}
+	EndGlobalSection
+EndGlobal
