@@ -9,7 +9,7 @@ if subjects=="Maths":
     if marks_maths<50:
             print("You need to study hard")
     else:
-            print("You're good to goo! ")
+            print("You're good to goo! ")     
 elif subjects=="Science":
         if marks_science<50:
             print("You need to sttudy more hard")
