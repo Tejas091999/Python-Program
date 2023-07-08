@@ -4,7 +4,7 @@ info=[]
 info.append(name)
 while True:
     age=input("What is your age:")
-    if age.isdigit():
+    if age.isdigit():    
         print("You're good to go..")
         info.append(age)
         break
