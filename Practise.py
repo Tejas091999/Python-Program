@@ -8,7 +8,7 @@ while True:
         print("You're good to go..")
         info.append(age)
         break
-    else:
+    else:       
         print("Age is always a number")
 while True:
     gender=input("What is your gender:")
