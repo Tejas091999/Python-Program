@@ -6,3 +6,4 @@ plt.xlabel("X AXIS")
 plt.ylabel("Y AXIS")
 plt.title("Deom Graph")
 plt.show()
+    
