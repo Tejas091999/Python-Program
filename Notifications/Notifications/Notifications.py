@@ -5,3 +5,4 @@ while True:
     motivation = random.choice(mylist)
     time.sleep(2)
     print(motivation)
+    
