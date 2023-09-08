@@ -9,7 +9,7 @@ if racer1==racer2:
 elif racer1!=racer2:
     if racer1=="BMW" and racer2=="MERCEDES":
         print("racer1 wins!!")
-    elif racer1=="BMW" and racer2=="SUPRA":
+    elif racer1=="BMW" and racer2=="SUPRA":   
         print("racer2 wins!!")
     elif racer1=="MERCEDES" and racer2=="BMW":
         print("racer2 wins!!")
